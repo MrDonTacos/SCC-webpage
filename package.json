@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "saul-web-page",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Saul Cañedo Castillo personal web page",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Saúl Cañedo Castillo",
   "dependencies": {
     "gatsby": "^3.12.1",
     "gatsby-plugin-gatsby-cloud": "^2.11.0",

@@ -4,8 +4,9 @@ import { StaticImage } from "gatsby-plugin-image"
 import Layout from "../components/layout/layout"
 
 const IndexPage = () => (
-    <Layout>
-    </Layout>
+    <div>
+
+    </div>
 )
 
 export default IndexPage

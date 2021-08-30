@@ -1,7 +1,7 @@
 import * as React from "react"
+import "./layout.css"
+import Navbar from "./navbar/navbar"
 
-export const layout = () => {
-    <div>
-
-    </div>
+export const Layout = (props) => {
+    <Navbar />
 }

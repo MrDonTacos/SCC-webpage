@@ -1,9 +1,9 @@
 import * as React from "react"
-import "./navbar.css"
+import "../navbar/navbar.module.css"
 
 const Navbar = (props) => {
     <nav>
-        {{props}}
+        
     </nav>
 }
 
